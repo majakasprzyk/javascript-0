@@ -1,4 +1,6 @@
-var string1 = "abc";
-var string2 = "ABC";
+var str = "hello, world"
 
-console.log(string1 < string2);
+var str2 = str.slice(2, 9);
+var str3 = str.slice(2);
+var tags = ("orange, apple, kiwi, ananas");
+var tagsArray = tags.split(",");
