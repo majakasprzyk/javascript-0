@@ -1,6 +1,6 @@
-var str = "hello, world"
+var myArray = [];
+myArray[0] = 25;
+myArray[1] = 35;
+myArray[2] = "hello";
 
-var str2 = str.slice(2, 9);
-var str3 = str.slice(2);
-var tags = ("orange, apple, kiwi, ananas");
-var tagsArray = tags.split(",");
+var myArray2 = [10,20,"hi"];
