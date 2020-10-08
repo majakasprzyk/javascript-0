@@ -1,6 +1,3 @@
-var myArray = [];
-myArray[0] = 25;
-myArray[1] = 35;
-myArray[2] = "hello";
-
-var myArray2 = [10,20,"hi"];
+var myString = new String();
+myString = "hello";
+var myString2 = "hi there";
